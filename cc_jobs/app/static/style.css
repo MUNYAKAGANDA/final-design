@@ -1,0 +1,101 @@
+.navbar .navbar-dropdown{
+  height:70px;
+  margin-bottom: 10px
+}
+body{
+/* background-color:rgb(222, 213, 213) */
+background-color:white
+
+}
+
+.navbar-ex1-collapse{
+  /**background-color:rgb(189, 4, 7);**/
+  background-color:#4286f4
+  padding:16px
+
+}
+.navbar-inverse{
+  background-color:lightblue;
+  color:white
+}
+
+.navbar a{
+      color: white;
+}
+.navbar a:hover{
+      background-color: green;border-radius: 20%
+}
+.navbar  a:hover{
+      background-color: green;border-radius: 20%;
+      color:green;
+}
+.navbar li a{
+      border-radius: 20%; margin-left:60px;margin-bottom:20px;margin-right:3px;color:white;margin-top: 20px;
+}
+
+ img{
+  height:500px;
+  width:100%
+}
+.con{ background-image: url('cc-jobs/gitega/app/static/cristiano.jpg')
+
+}
+.row{
+  background-color: white
+}
+.conus{
+     background-color:lightblue
+}
+.activ{
+     background-color: white
+}
+.thumbnail{
+     height:300px;width:100%
+}
+.div1{
+  align:center
+}
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+.h23 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+.landscape {
+    height: 500px;
+    width: 100%;
+}
+
+img{
+max-width:100%;
+max-height:650px;
+}
+.word{
+  word-wrap: break-word
+}
+.navbar-right  li a{
+  margin-left:20px;
+}
+.dropdown {
+  background-color: lightblue;
+}
+.dropdown li a{
+  color:blue;
+
+}
+
+
+.dropdown:hover .dropdown-menu{
+  display:block;
+}
+.dropdown-menu  a :hover{
+  color:white
+}
+.container{
+  margin-top: 10px;
+}
